@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    border: 2px solid black;
+    /* width: 1280px; */
+    background-color: aqua;
+    width: 80vw;
+    margin: auto;
+    height: 10vh;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 12px;
+}
+
+.container{
+    border: 2px solid black;
+    /* width: 1280px; */
+    background-color: aqua;
+    width: 80vw;
+    margin: 23px auto;
+    /* height: 80vh; */
+    min-height: 80vh;
+    text-align: center;
+    box-sizing: border-box;
+    /* font-size: 18px; */
+}
+
+.container p{
+    font-size: 2em;
+    /* 2*18 = 36px */
+    /* font-size: 2rem; */
+    width: 50%;
+    border: 2px solid blue;
+}
+
+.mycont{
+    background-color: red;
+    font-size: 22px;
+    /* width: 100vmin; */
+    width: 80vw;
+    margin: 23px auto;
+    box-sizing: border-box;
+    border: 2px solid black;
+    color: yellow;
+}
