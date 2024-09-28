@@ -1,0 +1,19 @@
+h1{
+    /* 1 */
+     color: rgb(149, 213, 37) /* !important; */
+}
+
+h1.red{
+    /* 1+10= 11 */
+    color: red;
+}
+
+.yellow{
+    /* 10 */
+    color: yellow;
+}
+
+.purple{
+    /* 10 */
+    color:purple
+}
